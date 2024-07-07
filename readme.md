@@ -42,7 +42,7 @@ PDF to Word Converter is a user-friendly desktop application that allows you to 
 
 2. Use the GUI to select the PDF files you want to convert.
 
-3. Click the "Convert" button to start the conversion process.
+3. Click the "Convert to Word" button to start the conversion process.
 
 4. The converted Word files will be saved in the same directory as the original PDF files.
 
